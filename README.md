@@ -3,7 +3,7 @@
 En este proyecto se ha llevado a cabo un proceso completo de aseguramiento de la calidad (QA) sobre la funcionalidad principal de la web: https://qainterview.pythonanywhere.com/
 El proyecto lo he realizado de manera individual siguiendo metodología ágil Scrum y BDD para el diseño de las pruebas antes del desarrollo, siguiendo buenas prácticas de testing.
 
-## Plan de Pruebas, resultados y reporte de errores: [Ver Plan de Pruebas](https://github.com/Bootcamp-QA/plandepruebas.html)
+## Plan de Pruebas, resultados y reporte de errores: [Ver Plan de Pruebas y Reporte de Errores] (https://github.com/CrisMendezQA/factorial/blob/main/Plan%20de%20Pruebas%20-%20[Web%20Factorial].pdf)
 En este documento se detalla el plan de pruebas, las funcionalidades probadas, el resultado de las pruebas ejecutadas y el reporte de errores.
 
 
