@@ -50,3 +50,10 @@ Accede a la carpeta del proyecto.
 Ejecuta en la terminal:
 
 `pytest --headed`
+
+# Pruebas de API con POSTMAN
+Se han probado casos positivos y negativos del método POST de la API.
+Proyecto_ https://crismendezqa-7270320.postman.co/workspace/API-FACTORIAL~60a350da-056a-4672-96d4-77cc99ca7795/collection/55034639-35c77add-2243-4167-8b1c-9e4ecaafd155?action=share&creator=55034639&active-environment=55034639-73123500-2c81-4174-9bd2-cf225d9cc2c3
+
+# Reporte de errores de la API
+Cuando se envía un valor inválido a la API (número negativo, texto o valor decimal) devuelve un código 500 y debería devolver un código controlado de 400 o similar.
